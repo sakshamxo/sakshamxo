@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakshamxo
-- 👀 I’m interested in os
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in Ai/Ml/Os
+- 🌱 Full-stack Web Developer
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me mail me
 msakshams24@gmail.com 
